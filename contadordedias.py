@@ -6,4 +6,4 @@ horas = horas_restantes//3600
 minutos_restantes = horas_restantes%3600
 minutos = minutos_restantes//60
 segundos= minutos_restantes%60
-print(dias, "Dias,", horas, "Horas,", minutos, "minutos,", segundos, "segundos.")
+print(dias, "Dias,", horas, "Horas,", minutos, "minutos,", segundos, "segundos.") 
